@@ -1,9 +1,7 @@
 class Solution:
     def twoSum(self,nums,targets):
-        num_to_index = {}
-        for i, num in enumerate(nums):
-            complement = targets - num
-            if complement in num_to_index:
-                return [num_to_index[complement], i]
-            num_to_index[num] = i
-        return []
+        for i in range(0,len(nums)):
+            for j in range(i+1,len(nums)):
+                if nums[i]+nums[j]==targets:
+                    return [i,j]
+                
