@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pavithran030) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:techpavithran18@gmail.com) 
 
 # 💻 Tech Stack:
-![C](https://img.icons8.com/color/48/c-programming.png) ![Python](https://img.icons8.com/color/48/python--v1.png) ![Java](https://img.icons8.com/nolan/64/java-coffee-cup-logo.png) ![Firebase](https://img.icons8.com/color/48/firebase.png) ![Cloudflare](https://img.icons8.com/color/48/cloudflare.png) ![MySQL](https://img.icons8.com/color/48/mysql-logo.png) ![Canva](https://img.icons8.com/fluency/48/canva.png) ![TensorFlow](https://img.icons8.com/color/48/tensorflow.png) ![PyTorch](https://img.icons8.com/arcade/64/pytorch.png) ![NumPy](https://img.icons8.com/color/48/numpy.png)) ![Pandas](https://img.icons8.com/color/48/pandas.png)
+![C](https://img.icons8.com/color/48/c-programming.png) ![Python](https://img.icons8.com/color/48/python--v1.png) ![Java](https://img.icons8.com/nolan/64/java-coffee-cup-logo.png) ![Firebase](https://img.icons8.com/color/48/firebase.png) ![Cloudflare](https://img.icons8.com/color/48/cloudflare.png) ![MySQL](https://img.icons8.com/color/48/mysql-logo.png) ![Canva](https://img.icons8.com/fluency/48/canva.png) ![TensorFlow](https://img.icons8.com/color/48/tensorflow.png) ![PyTorch](https://img.icons8.com/arcade/64/pytorch.png) ![NumPy](https://img.icons8.com/color/48/numpy.png) ![Pandas](https://img.icons8.com/color/48/pandas.png)
 
 # leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pavithran_25?theme=catppuccinMocha&font=Merienda&ext=heatmap)
