@@ -1,3 +1,16 @@
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hello+Tech+World!+👋;I'm+Pavithran+G!;)
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=32&fontColor=ffffff)
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Pavithran030&label=Profile%20views&color=0e75b6&style=flat" alt="Pavithran030" />
+</p>
+
+---
+
+
+
 # 💫 About Me:
 🔭 I’m currently pursuing AIML<br>👯 I’m looking to collaborate on real world project's<br>🤝 I’m looking for help to solve real world challenges and find a optimal solution <br>🌱 I’m currently learning java and DSA<br>💬 Ask me about<br>⚡ Hacking is the art of changing limitations into reality......
 
