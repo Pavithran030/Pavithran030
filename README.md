@@ -1,3 +1,4 @@
+# 🚀 Pavithran G | AI/ML Student
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hello+Tech+World!+👋;I'm+Pavithran+G!;)
 
