@@ -26,6 +26,14 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pavithran_25?theme=catppuccinMocha&font=Merienda&ext=heatmap)
 
 # 📊 GitHub Stats:
+
+
+---
+### 📊 GitHub Stats
+![](https://raw.githubusercontent.com/Pavithran030/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Pavithran030/github-stats-transparent/output/generated/languages.svg)
+
+
 ![](https://github-readme-stats.vercel.app/api?username=Pavithran030&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Pavithran030&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithran030&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
