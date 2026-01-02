@@ -16,7 +16,7 @@
        alt="Animated Background" />
     -->
 
-    <div>
+   <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?          type=waving&height=200&section=header&reversal=true&text=$%20I%20am%20Pavithran%20G&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=scaleIn&descSize=26&descAlign=47&descAlignY=58&textBg=false&color=gradient"  />
 </div>
 
