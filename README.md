@@ -2,6 +2,13 @@
 
 # 👋 Hey there, I'm Pavithran G
 
+<!--   Header-->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91FC&center=true&vCenter=true&width=435&lines=Hello👋+Tech+World!+%F0%9F%91%8B;I'm+Pavithran+G!" alt="Typing SVG" />
+</div>
+
+
 ### 🚀 AI/ML Student | Problem Solver | Tech Enthusiast
 <!--
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI+Solutions+%F0%9F%A4%96;Exploring+Machine+Learning+%F0%9F%93%8A;Mastering+DSA+in+Java+%E2%98%95;Turning+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
