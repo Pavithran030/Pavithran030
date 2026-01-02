@@ -5,7 +5,7 @@
 <!--   Header-->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91FC&center=true&vCenter=true&width=435&lines=Hello+Tech+World!+%F0%9F%91%8B;I'm+Pavithran+G!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2E91FC&center=true&vCenter=true&width=600&lines=Hello+Tech+World!+%F0%9F%91%8B;I'm+Pavithran+G!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <div align="center">
