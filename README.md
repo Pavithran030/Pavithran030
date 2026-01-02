@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=fadeIn" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pavithran030&label=Profile%20Views&color=00d9ff&style=for-the-badge)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Pavithran030&label=Profile%20Views&color=00d9ff&style=for-the-badge)-->
 
 </div>
 <div align="center">
