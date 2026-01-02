@@ -153,7 +153,8 @@
     <img src="https://visitcount.itsvg.in/api?id=Pavithran030&icon=5&color=12" />
   </a>
 
-    ### ✍️ Random Dev Quote
+<h3>✍️ Random Dev Quote</h3>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
@@ -162,10 +163,4 @@
 </div>
 
 
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
