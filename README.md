@@ -11,130 +11,108 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Pavithran030&label=Profile%20Views&color=00d9ff&style=for-the-badge)
 
 </div>
-
----
-
-## 🎯 About Me
-
-```python
-class Pavithran:
-    def __init__(self):
-        self.username = "Pavithran030"
-        self.location = "Salem, Tamil Nadu, India"
-        self.education = "AI/ML Student"
-        self.current_focus = ["Java", "DSA", "Machine Learning"]
-        self.motto = "Hacking is the art of changing limitations into reality"
-    
-    def get_goals(self):
-        return {
-            "learning": "Mastering Data Structures & Algorithms",
-            "collaboration": "Real-world AI/ML projects",
-            "mission": "Solving complex problems with optimal solutions"
-        }
-```
-
-**🎓 Currently Learning:** Java • Data Structures & Algorithms • Machine Learning • Deep Learning
-
-**🤝 Open to Collaborate:** AI/ML Projects • Open Source • Research • Innovation
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Pavithran030)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techpavithran18@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pavithran030)
-
----
-
-## 💻 Tech Arsenal
-
-**Programming Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**AI/ML & Data Science**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Databases & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-**Tools & Design**
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🏅 LeetCode Journey
-
 <div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Pavithran_25?theme=nord&font=Karma&ext=heatmap)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Pavithran%20G&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Student%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=62" width="100%"/>
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pavithran030&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Pavithran030&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithran030&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" />
-
----
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Pavithran030"><img src="https://github-readme-stats.vercel.app/api?username=Pavithran030&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Pavithran030's GitHub stats" /></a>
-
-<a href="http://www.github.com/Pavithran030"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithran030&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Pavithran030" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithran030&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-### ⛩ My Contribution Graph
-
-[![Pavithran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pavithran030&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/Pavithran030/github-readme-activity-graph)
-
----
-
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Pavithran030&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
----
-
 <div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91FC&center=true&vCenter=true&width=435&lines=Hello+Tech+World!+%F0%9F%91%8B;I'm+Pavithran+G!;Turning+Limitations+into+Reality...;Exploring+AI+and+Machine+Learning" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <a href="https://github.com/Pavithran030">
+    <img src="https://komarev.com/ghpvc/?username=Pavithran030&label=Profile%20views&color=0e75b6&style=flat-square" alt="Pavithran030" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
-
-### 💙 Thanks for visiting! Let's build something amazing together!
-
-**"The only way to do great work is to love what you do."** - Steve Jobs
-
+  <table>
+    <tr>
+      <td valign="center" width="50%">
+        <h2>💫 About Me</h2>
+        <ul>
+          <li>🔭 I’m currently pursuing <strong>AI & ML</strong></li>
+          <li>👯 I’m looking to collaborate on <strong>Real-world projects</strong></li>
+          <li>🤝 I’m looking for help to solve <strong>Complex challenges</strong></li>
+          <li>🌱 I’m currently learning <strong>Java and DSA</strong></li>
+          <li>💬 Ask me about <strong>Hacking, AI, Tech</strong></li>
+          <li>⚡ <i>"Hacking is the art of changing limitations into reality."</i></li>
+        </ul>
+        <br/>
+        <h3>🌐 Connect with me</h3>
+        <p>
+          <a href="https://linkedin.com/in/Pavithran030">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+          </a>
+          <a href="mailto:techpavithran18@gmail.com">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+          </a>
+        </p>
+      </td>
+      <td valign="center" width="50%" align="center">
+        <!-- You can replace this with a fun gif if you like, for now using a tech illustration -->
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br/>
+
+<div align="center">
+  <h2>💻 Tech Stack</h2>
+  <br>
+  <!-- Main icons using skillicons -->
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,py,java,mysql,tensorflow,pytorch,firebase,cloudflare,linux,git&perline=10" />
+    </a>
+  </p>
+  <!-- Additional specific badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  </p>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <br>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Pavithran030&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithran030&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+  </p>
+
+  <p>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Pavithran030&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  </p>
+  
+  <h3>🏆 LeetCode</h3>
+  <img src="https://leetcard.jacoblin.cool/Pavithran_25?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🔝 Top Contributions</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Pavithran030&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions"/>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavithran030&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <br/><br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Pavithran030&icon=5&color=12" />
+  </a>
+</div>
+
