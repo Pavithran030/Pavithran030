@@ -11,7 +11,7 @@
        alt="Animated Background" />
   
   <!-- Terminal Typing (positioned tightly below) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=%28+Hello+Tech+World!+%F0%9F%91%8B;%28+I'm+Pavithran+G!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=%24+Hello+Tech+World!+%F0%9F%91%8B;%24+I'm+Pavithran+G!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" 
        style="margin-top: -30px;" />
 </div>
 
