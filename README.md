@@ -10,10 +10,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=%24+Hello+Tech+World!+%F0%9F%91%8B;%24+I'm+Pavithran+G!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" 
        style="margin-top: -30px;" />
 
-
+<!--
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=fadeIn" 
        style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: 1;" 
        alt="Animated Background" />
+    -->
+
+    <div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?          type=waving&height=200&section=header&reversal=true&text=$%20I%20am%20Pavithran%20G&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=scaleIn&descSize=26&descAlign=47&descAlignY=58&textBg=false&color=gradient"  />
+</div>
+
 </div>
 
 
