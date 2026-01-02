@@ -148,10 +148,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavithran030&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-  <br/><br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Pavithran030&icon=5&color=12" />
-  </a>
+  
 
 <h3>✍️ Random Dev Quote</h3>
 
