@@ -140,7 +140,7 @@
 
 <div align="center">
   <h3>🔝 Top Contributions</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Pavithran030&limit=10&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Pavithran030&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions"/>
 </div>
 
 <br/>
