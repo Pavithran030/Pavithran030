@@ -10,12 +10,9 @@
        style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: 1;" 
        alt="Animated Background" />
   
-  <!-- Terminal Typing Text -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2; width: 100%; text-align: center; padding: 0 20px; box-sizing: border-box;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=650&lines=%24+Hello+Tech+World!+%F0%9F%91%8B;%24+I'm+Pavithran+G!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%24+Exploring+AI+%26+Quantum+Computing...+%F0%9F%9A%80" 
-         alt="Terminal Typing" 
-         style="max-width: 100%; height: auto;" />
-  </div>
+  <!-- Terminal Typing (positioned tightly below) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=%24+Hello+Tech+World!+%F0%9F%91%8B;%24+I'm+Pavithran+G!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" 
+       style="margin-top: -30px;" />
 </div>
 
 
