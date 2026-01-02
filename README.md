@@ -93,6 +93,19 @@ class Pavithran:
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithran030&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" />
 
 ---
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Pavithran030"><img src="https://github-readme-stats.vercel.app/api?username=Pavithran030&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Pavithran030's GitHub stats" /></a>
+
+<a href="http://www.github.com/Pavithran030"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithran030&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Pavithran030" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithran030&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ### ⛩ My Contribution Graph
 
@@ -111,16 +124,6 @@ class Pavithran:
 ### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-pavithran030.vercel.app/api/spotify)](https://open.spotify.com/user/31l6hqxpoyqjkowxwpzblqpn5com)
 
 </div>
 
