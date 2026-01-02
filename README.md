@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=%24+Hello+Tech+World!+%F0%9F%91%8B;%24+I'm+Pavithran+G!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" 
        style="margin-top: -30px;" />
 
-       <!-- Animated Background -->
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=fadeIn" 
        style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: 1;" 
        alt="Animated Background" />
