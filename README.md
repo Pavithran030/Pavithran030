@@ -122,19 +122,7 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <br>
-
-<div align="center" style="width: 100%"> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
+    
   <!--
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Pavithran030&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="Github Stats" />
