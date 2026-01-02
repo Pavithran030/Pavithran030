@@ -133,9 +133,7 @@
   <p>
     <img src="https://nirzak-streak-stats.vercel.app/?user=Pavithran030&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   </p>
-  
-  <h3>🏆 LeetCode</h3>
-  <img src="https://leetcard.jacoblin.cool/Pavithran_25?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+
 </div>
 
 <br/>
