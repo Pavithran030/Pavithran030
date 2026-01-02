@@ -115,11 +115,25 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <br>
-  
+
+    <div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+  <!--
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Pavithran030&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="Github Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithran030&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
   </p>
+  -->
 
   <p>
     <img src="https://nirzak-streak-stats.vercel.app/?user=Pavithran030&theme=tokyonight&hide_border=true" alt="Streak Stats" />
