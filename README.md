@@ -3,10 +3,16 @@
 # 👋 Hey there, I'm Pavithran G
 
 ### 🚀 AI/ML Student | Problem Solver | Tech Enthusiast
-
+<!--
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI+Solutions+%F0%9F%A4%96;Exploring+Machine+Learning+%F0%9F%93%8A;Mastering+DSA+in+Java+%E2%98%95;Turning+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
+-->
+<!-- Typing-->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91FC&center=true&vCenter=true&width=435&lines=Hello+Tech+World!+%F0%9F%91%8B;I'm+Pavithran+G!;Turning+Limitations+into+Reality...;Exploring+AI+and+Machine+Learning" alt="Typing SVG" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=fadeIn" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=fadeIn" />
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Pavithran030&label=Profile%20Views&color=00d9ff&style=for-the-badge)
 
@@ -15,9 +21,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Pavithran%20G&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Student%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=62" width="100%"/>
 </div>
 -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91FC&center=true&vCenter=true&width=435&lines=Hello+Tech+World!+%F0%9F%91%8B;I'm+Pavithran+G!;Turning+Limitations+into+Reality...;Exploring+AI+and+Machine+Learning" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <a href="https://github.com/Pavithran030">
