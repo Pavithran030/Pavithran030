@@ -94,13 +94,6 @@ class Pavithran:
 
 ---
 
-### 📊 GitHub Stats
-
-![](https://raw.githubusercontent.com/Pavithran030/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Pavithran030/github-stats-transparent/output/generated/languages.svg)
-
----
-
 ### ⛩ My Contribution Graph
 
 [![Pavithran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pavithran030&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/Pavithran030/github-readme-activity-graph)
@@ -140,7 +133,5 @@ class Pavithran:
 ### 💙 Thanks for visiting! Let's build something amazing together!
 
 **"The only way to do great work is to love what you do."** - Steve Jobs
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Pavithran030&label=Visitors&color=00d9ff&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
