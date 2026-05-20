@@ -81,6 +81,10 @@ class Pavithran:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavithran030&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true" width="100%"/>
 </div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithran030&theme=dark&hide_border=true&mode=weekly" alt="Unified Coding Heatmap Grid" width="100%"/>
+</p>
+
 ---
 
 ## 🌐 Connect with Me
