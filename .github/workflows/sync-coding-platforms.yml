@@ -3,9 +3,12 @@ name: Aggregate External Platform Heatmap
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← ADD THIS LINE
+
 on:
   schedule:
-    - cron: "0 0,12 * * *"  # Runs twice daily (midnight & noon UTC)
+    - cron: "0 0,12 * * *"
   workflow_dispatch:
 
 jobs:
