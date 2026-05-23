@@ -51,39 +51,12 @@ class Pavithran:
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pavithran030&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithran030&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" width="40%" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Pavithran030&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B4B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" width="55%" />
-
-</div>
-
----
-
-## 🏆 Top Contributions
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Pavithran030&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" width="75%"/>
-</div>
-
----
 
 ## 📈 Activity Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavithran030&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true" width="100%"/>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithran030&theme=dark&hide_border=true&mode=weekly" alt="Unified Coding Heatmap Grid" width="100%"/>
-</p>
 
 ---
 
