@@ -14,49 +14,100 @@
 
 ## 👨‍💻 About Me
 
-```python
-class Pavithran:
-    name       = "Pavithran G"
-    role       = "AI/ML Student"
-    interests  = ["Artificial Intelligence", "Machine Learning", "Hacking", "DSA"]
-    learning   = ["Java", "Data Structures & Algorithms"]
-    motto      = "Hacking is the art of changing limitations into reality."
-    open_to    = ["Real-world project collaborations", "Complex problem solving"]
-```
+<div align="center">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding"/>
+</div>
+
+- 🎓 **AI/ML Student** passionate about solving real‑world problems with intelligent systems  
+- 🔭 Currently diving deep into **Java, DSA, and advanced Machine Learning**  
+- 💡 *“Hacking is the art of changing limitations into reality.”*  
+- 🤝 Open to collaborate on **open‑source projects, hackathons, and research work**  
+- 📫 Reach me at **techpavithran18@gmail.com**  
+- ⚡ Fun fact: I love breaking things just to understand how they work 🛠️  
+
+<br/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 🐍 Languages
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <!-- <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" /> -->
+</p>
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🤖 AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn" width="65" height="65" alt="Scikit-Learn" />
+  <!-- <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" /> -->
+</p>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="65" height="65" alt="Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+</p>
 
-### Design
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+### 🎨 Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
 ---
 
-## 📈 Activity Graph
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavithran030&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true" width="100%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pavithran030&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithran030&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithran030&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<!-- <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pavithran030&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" alt="trophy" />
+</div> -->
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pavithran030&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true)
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 **Advanced Machine Learning** (Deep Learning, NLP, Computer Vision)  
+- ☕ **Java** & Object‑Oriented Design Patterns  
+- 📊 **Data Structures & Algorithms** (LeetCode / HackerRank grinding)  
+- 🐧 **Linux** System Administration & Shell Scripting  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Progress-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://progress-bar.dev/70/?scale=100&title=ML/DL&width=110&color=FF6F00&suffix=%" />
+  <img src="https://progress-bar.dev/55/?scale=100&title=DSA&width=110&color=blue&suffix=%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+> 💼 *Real projects coming soon! Here’s a sneak peek at what I’m building:*
+
+- 🩺 **AI Health Assistant** – Symptom checker powered by ML (WIP)  
+- 🔐 **Ethical Hacking Toolkit** – A collection of security scripts for learning  
+- 📊 **Data Visualization Dashboard** – Interactive plots using Streamlit & Plotly  
 
 ---
 
