@@ -65,19 +65,12 @@
 
 ## 📊 GitHub Stats & Activity
 
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pavithran030&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithran030&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div> -->
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithran030&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Pavithran030&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
-
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pavithran030&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" alt="trophy" />
-</div> -->
-
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pavithran030&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 ---
 
 ## 📈 Contribution Graph
